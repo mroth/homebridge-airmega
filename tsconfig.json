@@ -14,7 +14,8 @@
     "index.ts"
   ],
   "include": [
-    "lib/**/*.ts"
+    "lib/**/*.ts",
+    "lib/util/*"
   ],
   "exclude": [
     "node_modules"
